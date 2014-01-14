@@ -1,0 +1,28 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+font-face {
+font-family:'quatreg';
+src:url:('fa/fonts/quatreg.woff');
+} 
+.hov {
+		background-image:url('med4.png');
+		
+		background-repeat:no-repeat;
+		margin-top:9px;
+		margin-right:7px;
+		margin-left:12px;
+		background-position:center;
+		}
+		.hov:hover {
+		background-image:url('med3.png');
+		background-repeat:no-repeat;
+				
+		
+		
+}
+.cl:hover{
+color:rgb(255,39,120);
+}
